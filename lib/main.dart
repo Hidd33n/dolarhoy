@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rainingtoday/presentation/screens/homescreen/home.dart';
+import 'package:dolartoday/presentation/screens/homescreen/home.dart';
 
 void main() {
   runApp(const MyApp());
