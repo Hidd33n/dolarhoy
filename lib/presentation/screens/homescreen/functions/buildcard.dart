@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:rainingtoday/data/constants.dart';
-import 'package:rainingtoday/data/historical_data.dart';
-import 'package:rainingtoday/data/pull_data.dart'; // Importa la clase PullData
+import 'package:dolartoday/data/constants.dart';
+import 'package:dolartoday/data/historical_data.dart';
+import 'package:dolartoday/data/pull_data.dart'; // Importa la clase PullData
 import 'chart.dart'; // Importa el widget CustomLineChart
 import 'package:intl/intl.dart'; // Importa el paquete de formateo de fechas
 

@@ -2,10 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:rainingtoday/data/constants.dart';
-import 'package:rainingtoday/data/pull_data.dart';
-import 'package:rainingtoday/presentation/screens/homescreen/functions/buildcard.dart';
-import 'package:rainingtoday/presentation/screens/homescreen/functions/conversion.dart'; // Importa el archivo buildcard.dart
+import 'package:dolartoday/data/constants.dart';
+import 'package:dolartoday/data/pull_data.dart';
+import 'package:dolartoday/presentation/screens/homescreen/functions/buildcard.dart';
+import 'package:dolartoday/presentation/screens/homescreen/functions/conversion.dart'; // Importa el archivo buildcard.dart
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

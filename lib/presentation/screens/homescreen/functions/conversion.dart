@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:rainingtoday/data/constants.dart';
-import 'package:rainingtoday/data/pull_data.dart';
+import 'package:dolartoday/data/constants.dart';
+import 'package:dolartoday/data/pull_data.dart';
 
 class ConversionWidget extends StatefulWidget {
   const ConversionWidget({Key? key}) : super(key: key);
